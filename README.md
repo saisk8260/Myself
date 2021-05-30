@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saisk8260
 - 👀 I’m interested in web development, Coding , etc. 
 - 🌱 I’m currently learning python & web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 7780544860
+- 💞️ I’m looking to collaborate on techietune... 
+- 📫 How to reach me 7780544860 laxminarayanaeerabathini@gmail.com
 
 <!---
 saisk8260/saisk8260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
