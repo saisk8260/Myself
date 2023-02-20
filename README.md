@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @saisk8260
-- 👀 I’m interested in web development, Coding , etc. 
-- 🌱 I’m currently learning python & web development
-- 💞️ I’m looking to collaborate on techietune... 
+-   Software Developer Intern @ KR mroads India
+
+- 👀 I’m interested in Coding and development. 
+- 🌱 My skills are Python, Java, DBMS.
+- 💞️ Open to learn and develop... 
 - 📫 How to reach me 7780544860 laxminarayanaeerabathini@gmail.com
 
 <!---
